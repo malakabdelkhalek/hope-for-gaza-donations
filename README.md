@@ -7,8 +7,7 @@ A front-end web project for a charity platform that collects donations for famil
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **▶ Live demo:** 
-(https://github.com/malakabdelkhalek/hope-for-gaza-donations-/settings/pages)
-## Pages
+**▶ Live demo:** https://malakabdelkhalek.github.io/hope-for-gaza-donations/## Pages
 
 | Page | Description |
 |---|---|
