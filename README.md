@@ -6,8 +6,8 @@ A front-end web project for a charity platform that collects donations for famil
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**▶ Live demo:** _enable GitHub Pages (Settings → Pages → main branch) and paste the link here_
-
+**▶ Live demo:** 
+(https://github.com/malakabdelkhalek/hope-for-gaza-donations-/settings/pages)
 ## Pages
 
 | Page | Description |
@@ -19,7 +19,6 @@ A front-end web project for a charity platform that collects donations for famil
 
 ## Screenshots
 
-> _Add a screenshot of the home page and the donation page here._
 
 ## Run it
 
@@ -27,4 +26,4 @@ No build step: open `index.html` in a browser.
 
 ## Team
 
-Built by **Malak Abdelkhalek** _(add teammates here)_.
+Built by **Malak Abdelkhalek** 
